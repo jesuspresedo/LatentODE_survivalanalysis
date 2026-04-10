@@ -1,6 +1,6 @@
 # LatentODE_survivalanalysis
 Code for the paper:
-> Jesús Presedo , Paulo Félix, Adrián Pérez-Herrero, Guillermo J. Ortega, Alberto Cecconi, Beatriz López-Melgar, Álvaro Montes, Luis Jesús Jiménez-Borreguero. "Predicting Atrial Fibrillation onset with longitudinal survival analysis from electrocardiographic follow-up" (2026)
+> Jesús Presedo , Paulo Félix, Adrián Pérez-Herrero, Guillermo J. Ortega, Alberto Cecconi, Beatriz López-Melgar, Álvaro Montes, Luis Jesús Jiménez-Borreguero. "Predicting atrial fibrillation onset from the short to the long term with longitudinal survival analysis using serial ECG recordings" (2026)
 
 
 ## Prerequisites
